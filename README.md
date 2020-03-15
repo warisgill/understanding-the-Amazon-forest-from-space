@@ -1,1 +1,4 @@
-# understanding-the-Amazon-forest-from-space
+# Understanding The Amazon Forest From Space
+
+Read the project report for detailed descripition. Thank you. 
+
